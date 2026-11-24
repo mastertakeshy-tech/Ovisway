@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1795511078,
+	"version": 1795520115,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -67,6 +67,8 @@
 		"images/sprite3-sheet0.png",
 		"images/barravidajefe-sheet0.png",
 		"images/pared-sheet0.png",
+		"images/balaovi-sheet0.png",
+		"images/blueestaasalvo-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
