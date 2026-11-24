@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1795506997,
+	"version": 1795511078,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -66,6 +66,7 @@
 		"images/fondovidajefe-sheet0.png",
 		"images/sprite3-sheet0.png",
 		"images/barravidajefe-sheet0.png",
+		"images/pared-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
