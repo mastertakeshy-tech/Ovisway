@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1795757437,
+	"version": 1795759090,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -41,6 +41,8 @@
 		"images/sprite-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/image_historia-sheet0.png",
+		"images/image_historia-sheet1.png",
+		"images/image_historia-sheet2.png",
 		"images/fondo_gameover-sheet0.png",
 		"images/sprite4-sheet0.png",
 		"images/portal_nivel1a2-sheet0.png",
@@ -95,6 +97,9 @@
 		"images/planet4-sheet0.png",
 		"images/cartelusax-sheet0.png",
 		"images/cartelusac-sheet0.png",
+		"images/orbevolador-sheet0.png",
+		"images/enemigovolador-sheet0.png",
+		"images/enemigovolador-sheet1.png",
 		"media/recolectar.ogg",
 		"media/recolectar.m4a",
 		"media/disparo.ogg",
